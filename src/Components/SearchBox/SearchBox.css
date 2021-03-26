@@ -1,0 +1,12 @@
+.search_here{
+    /* display: flex; */
+    width: 300px;
+    height: 33px;
+    border-radius: 6px;
+    text-align: center;
+   
+}
+.Header_style{
+    padding: 10px 0px 20px 0px;
+
+}
