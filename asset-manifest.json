@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/github.io/monoster-rolodex/static/css/main.85a63b42.chunk.css",
-    "main.js": "/github.io/monoster-rolodex/static/js/main.cd2e3935.chunk.js",
-    "main.js.map": "/github.io/monoster-rolodex/static/js/main.cd2e3935.chunk.js.map",
-    "runtime-main.js": "/github.io/monoster-rolodex/static/js/runtime-main.8d198777.js",
-    "runtime-main.js.map": "/github.io/monoster-rolodex/static/js/runtime-main.8d198777.js.map",
-    "static/js/2.415b0ad9.chunk.js": "/github.io/monoster-rolodex/static/js/2.415b0ad9.chunk.js",
-    "static/js/2.415b0ad9.chunk.js.map": "/github.io/monoster-rolodex/static/js/2.415b0ad9.chunk.js.map",
-    "index.html": "/github.io/monoster-rolodex/index.html",
-    "static/css/main.85a63b42.chunk.css.map": "/github.io/monoster-rolodex/static/css/main.85a63b42.chunk.css.map",
-    "static/js/2.415b0ad9.chunk.js.LICENSE.txt": "/github.io/monoster-rolodex/static/js/2.415b0ad9.chunk.js.LICENSE.txt"
+    "main.css": "/monoster-rolodex/static/css/main.85a63b42.chunk.css",
+    "main.js": "/monoster-rolodex/static/js/main.cd2e3935.chunk.js",
+    "main.js.map": "/monoster-rolodex/static/js/main.cd2e3935.chunk.js.map",
+    "runtime-main.js": "/monoster-rolodex/static/js/runtime-main.88a8375b.js",
+    "runtime-main.js.map": "/monoster-rolodex/static/js/runtime-main.88a8375b.js.map",
+    "static/js/2.415b0ad9.chunk.js": "/monoster-rolodex/static/js/2.415b0ad9.chunk.js",
+    "static/js/2.415b0ad9.chunk.js.map": "/monoster-rolodex/static/js/2.415b0ad9.chunk.js.map",
+    "index.html": "/monoster-rolodex/index.html",
+    "static/css/main.85a63b42.chunk.css.map": "/monoster-rolodex/static/css/main.85a63b42.chunk.css.map",
+    "static/js/2.415b0ad9.chunk.js.LICENSE.txt": "/monoster-rolodex/static/js/2.415b0ad9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d198777.js",
+    "static/js/runtime-main.88a8375b.js",
     "static/js/2.415b0ad9.chunk.js",
     "static/css/main.85a63b42.chunk.css",
     "static/js/main.cd2e3935.chunk.js"
